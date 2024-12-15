@@ -39,7 +39,7 @@ function startGame() {
     timeUp = false;
     score = 0;
     peep();
-    setTimeout(() => timeUp = true, 15000) //show random moles for 15 seconds
+    setTimeout(() => timeUp = true, 16000) //show random moles for 16 seconds
 }
 
 function wack(e){
