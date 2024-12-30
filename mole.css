@@ -81,7 +81,7 @@ button {
     display: none;
   }
   .score {
-    background: blue;
+    background: red;
     padding: 0 12px;
     line-height: 1;
     border-radius: 16px;
